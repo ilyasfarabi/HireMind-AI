@@ -587,8 +587,8 @@ This project can be presented to:
 ## 👤 Author
 
 **Ilyas Farabi** – Senior AI Engineer & Backend Architect  
-- GitHub: [github.com/yourusername](https://github.com/ilyasfarabi)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ilyas-farabi-4485bb250/)  
+- GitHub: (https://github.com/ilyasfarabi)  
+- LinkedIn: (https://www.linkedin.com/in/ilyas-farabi-4485bb250/)  
 
 *Built with Python, FastAPI, LangChain, Gemini, and a passion for intelligent automation.*
 
