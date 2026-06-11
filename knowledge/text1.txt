@@ -1,0 +1,28 @@
+Position: AI Engineer
+
+Required Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- LangChain
+- RAG Systems
+- Vector Databases
+- OpenAI API
+- FastAPI
+- Git
+
+Preferred Skills:
+- Docker
+- Kubernetes
+- Cloud Platforms
+- MLOps
+
+Responsibilities:
+- Build AI applications
+- Create RAG pipelines
+- Integrate LLMs
+- Evaluate AI models
+- Deploy AI services
+
+Minimum Experience:
+- 2 years

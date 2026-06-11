@@ -1,0 +1,23 @@
+Position: Frontend Engineer
+
+Required Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Git
+
+Preferred Skills:
+- Next.js
+- Tailwind CSS
+- Redux
+
+Responsibilities:
+- Build user interfaces
+- Improve user experience
+- Integrate APIs
+- Optimize frontend performance
+
+Minimum Experience:
+- 1 year

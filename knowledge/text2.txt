@@ -1,0 +1,24 @@
+Position: Backend Engineer
+
+Required Skills:
+- Python
+- FastAPI
+- SQL
+- PostgreSQL
+- REST APIs
+- Git
+
+Preferred Skills:
+- Docker
+- Redis
+- RabbitMQ
+- AWS
+
+Responsibilities:
+- Build APIs
+- Design databases
+- Maintain backend systems
+- Optimize performance
+
+Minimum Experience:
+- 2 years

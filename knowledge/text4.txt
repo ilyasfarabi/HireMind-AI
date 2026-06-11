@@ -1,0 +1,21 @@
+Position: Full Stack Engineer
+
+Required Skills:
+- Python
+- FastAPI
+- React
+- SQL
+- Git
+
+Preferred Skills:
+- Docker
+- AWS
+- CI/CD
+
+Responsibilities:
+- Build complete web applications
+- Develop frontend and backend
+- Manage deployments
+
+Minimum Experience:
+- 2 years

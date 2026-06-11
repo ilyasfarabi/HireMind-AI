@@ -1,0 +1,22 @@
+Position: Data Scientist
+
+Required Skills:
+- Python
+- Pandas
+- NumPy
+- Statistics
+- Machine Learning
+- Data Visualization
+
+Preferred Skills:
+- Deep Learning
+- Spark
+- Cloud Platforms
+
+Responsibilities:
+- Analyze data
+- Build predictive models
+- Generate insights
+
+Minimum Experience:
+- 2 years
