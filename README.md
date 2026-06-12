@@ -587,7 +587,7 @@ This project can be presented to:
 
 ## 👤 Author
 
-**Ilyas Farabi** – Senior AI Engineer & Backend Architect  
+**Ilyas Farabi** – AI & Backend Developer
 - GitHub: (https://github.com/ilyasfarabi)  
 - LinkedIn: (https://www.linkedin.com/in/ilyas-farabi-4485bb250)  
 
