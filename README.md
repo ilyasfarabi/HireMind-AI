@@ -322,7 +322,9 @@ This is a powerful tool for testing, debugging, and understanding the API withou
 
 | **Swagger UI** – Test endpoints live in your browser |
 |-------------------------------------------------------|
-| ![Swagger UI Screenshot](https://via.placeholder.com/800x400?text=Swagger+UI+-+FastAPI+Interactive+Docs) |
+| (<p align="center">
+  <img src="assets/demo2.png" width="700" />
+</p>) |
 
 **How to use:**  
 1. Run the server (`docker-compose up` or `uvicorn main:app --reload`)  
@@ -337,7 +339,9 @@ The screenshot below demonstrates filtering evaluations for `Frontend Engineer`:
 
 | **Filtering history with Swagger UI** |
 |---------------------------------------|
-| ![History filter screenshot](https://via.placeholder.com/800x400?text=GET+/history?job_title=Frontend+Engineer) |
+| (<p align="center">
+  <img src="assets/demo3.png" width="700" />
+</p>) |
 
 **Request:**  
 `GET /history?job_title=Frontend%20Engineer&limit=20&offset=0`  
@@ -476,7 +480,9 @@ graph LR
 
 | **Gmail Trigger node in n8n** – poll for CV attachments |
 |----------------------------------------------------------|
-| ![Gmail Trigger](https://via.placeholder.com/800x300?text=Gmail+Trigger+-+Fetch+CV+attachment) |
+| (<p align="center">
+  <img src="assets/demo4.png" width="700" />
+</p>) |
 
 1. Add a **Gmail Trigger** node (poll every minute, event: `Message Received`).
 2. Configure **Download Attachments** to get the PDF file.
@@ -488,26 +494,13 @@ graph LR
 
 | n8n HTTP Request node configuration | Workflow execution log |
 |-------------------------------------|------------------------|
-| ![n8n HTTP Request](https://via.placeholder.com/400x200?text=n8n+HTTP+Request+Node) | ![n8n Logs](https://via.placeholder.com/400x200?text=Execution+Logs) |
+| (<p align="center">
+  <img src="assets/demo5.png" width="700" />
+</p>) | (https://via.placeholder.com/400x200?text=Execution+Logs) |
 
 This creates a fully automated pipeline:  
 **Incoming email with CV → AI evaluation → decision sent to Slack/Sheets.**
 
----
-
-## 📸 Screenshots (Placeholders)
-
-| API Docs (Swagger UI) | Evaluation Response |
-|-----------------------|---------------------|
-| ![Swagger UI](https://via.placeholder.com/400x200?text=Swagger+UI) | ![Response](https://via.placeholder.com/400x200?text=JSON+Response) |
-
-| History List | Stats Dashboard |
-|--------------|-----------------|
-| ![History](https://via.placeholder.com/400x200?text=History+List) | ![Stats](https://via.placeholder.com/400x200?text=Stats) |
-
-| n8n Gmail Trigger | n8n Workflow Editor |
-|-------------------|---------------------|
-| ![Gmail Trigger](https://via.placeholder.com/400x200?text=Gmail+Trigger) | ![n8n Workflow](https://via.placeholder.com/400x200?text=n8n+Workflow) |
 
 ---
 
