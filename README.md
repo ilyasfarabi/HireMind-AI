@@ -500,6 +500,14 @@ graph LR
 
 This creates a fully automated pipeline:  
 **Incoming email with CV → AI evaluation → decision sent to Slack/Sheets.**
+n8n HTTP Request node configuration	Workflow execution log
+
+This creates a fully automated pipeline:
+(<p align="center">
+  <img src="assets/demo7.png" width="700" />
+</p>) | (https://via.placeholder.com/400x200?text=Execution+Logs)
+Incoming email with CV → AI evaluation → decision sent to Slack/Sheets.
+
 
 
 ---
