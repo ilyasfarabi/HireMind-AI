@@ -601,7 +601,4 @@ MIT — use it, extend it, or launch your own recruitment startup.
 
 ---
 
-<p align="center">
-  <strong>⭐ Star this repository if you believe hiring should be fast, fair, and AI‑powered.</strong>
-</p>
 ```
