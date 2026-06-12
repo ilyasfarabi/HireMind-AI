@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src=
-    "demo.jpeg" alt="Dashboard Preview" width="80%">
+    "demo.jpeg" alt="Dashboard Preview" width="70%">
 </p>
 
 ---
@@ -123,7 +123,7 @@ sequenceDiagram
 |-------|------------|---------|
 | **Backend** | Python 3.10+, FastAPI | REST API server |
 | **LLM** | Google Gemini 1.5 Flash | Candidate evaluation (structured JSON) |
-| **LangChain** | LangChain 0.3 | Prompt orchestration + structured output |
+| **LangChain** | LangChain 1.3.4 | Prompt orchestration + structured output |
 | **Embeddings** | HuggingFace `all-MiniLM-L6-v2` | Local vector embeddings (no API key) |
 | **Vector Store** | ChromaDB | RAG knowledge base |
 | **PDF Parsing** | PyMuPDF (fitz) | Text extraction from PDF |
@@ -496,7 +496,7 @@ graph LR
 |-------------------------------------|------------------------|
 | (<p align="center">
   <img src="assets/demo5.png" width="700" />
-</p>) | (https://via.placeholder.com/400x200?text=Execution+Logs) |
+</p>) | |
 
 This creates a fully automated pipeline:  
 **Incoming email with CV → AI evaluation → decision sent to Slack/Sheets.**
@@ -504,8 +504,8 @@ n8n HTTP Request node configuration	Workflow execution log
 
 This creates a fully automated pipeline:
 (<p align="center">
-  <img src="assets/demo7.png" width="700" />
-</p>) | (https://via.placeholder.com/400x200?text=Execution+Logs)
+  <img src="assets/demo7.jpeg" width="700" />
+</p>) | 
 Incoming email with CV → AI evaluation → decision sent to Slack/Sheets.
 
 
@@ -589,7 +589,7 @@ This project can be presented to:
 
 **Ilyas Farabi** – Senior AI Engineer & Backend Architect  
 - GitHub: (https://github.com/ilyasfarabi)  
-- LinkedIn: (https://www.linkedin.com/in/ilyas-farabi-4485bb250/)  
+- LinkedIn: (https://www.linkedin.com/in/ilyas-farabi-4485bb250)  
 
 *Built with Python, FastAPI, LangChain, Gemini, and a passion for intelligent automation.*
 
